@@ -28,3 +28,8 @@ export interface Student {
   /** Featured students are shown first when "Featured first" is selected. */
   featured: boolean;
 }
+
+/* 1. photo, name, faculty, quote, classyear
+   2. ID
+   3. featured
+ **/
